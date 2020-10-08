@@ -6,8 +6,6 @@ x = 1
 if x == 1:
     #indented to set the scope
     print("x is 1")
-#Hello World
-print("Hello, World!")
 #everything in python is an object
 #Number in python
 myint = 7
